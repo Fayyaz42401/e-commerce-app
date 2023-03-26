@@ -1,0 +1,23 @@
+.signup-form{
+    // border: 2px solid red;
+    justify-content: space-between;
+    border:2px solid var(--main);
+    border-radius:20px ;
+    box-shadow: var(--shadow);
+    height: 350px ;
+    width: 400px;
+    display: flex;
+    align-items: center;
+    padding: 20px  ;
+    position: relative;
+    flex-direction: column;
+    margin: 200px auto;
+
+
+    h1{
+        font-weight: 600;
+        font-size: 2rem;
+    }
+}
+
+

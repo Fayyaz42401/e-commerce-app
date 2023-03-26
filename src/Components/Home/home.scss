@@ -1,0 +1,38 @@
+.banner{
+    height: 90vh;
+    width: 100%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    // background: linear-gradient(45Deg , #2f1c53 , #a46Dff , #f6d1fd );
+    // background: url('https://thumb9.shutterstock.com/thumb_large/3158051/713624725/stock-photo-blue-metal-background-713624725.jpg');
+    padding:  0 60px;
+    align-items: center;
+    color: #fff;
+
+}
+.slider-banner{
+    height: 300px;
+    width: 40%;
+    float: right;
+}
+.slider-box{
+    img{
+        border-radius: 4px;
+    }
+}
+
+.hero-text{
+ height: 300px;
+ 
+
+
+    h1{
+        font-size: 3rem;
+        font-weight: 600;
+    }
+    p{
+        width: 70%;
+
+    }
+}
